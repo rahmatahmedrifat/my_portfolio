@@ -102,3 +102,12 @@ color: rgb(49, 46, 46);
     margin: 130px 0;
     
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
