@@ -96,10 +96,10 @@ color: rgb(49, 46, 46);
     text-align: center;
 }
 .about{
-    padding: 150px;
+    padding: 150px 150px 150px 150px;
     border-radius: 10px;
     background-color: #FFF8F3;
-    margin: 130px 0;
+    margin: 130px 0 0 0;
     
 }
 main{
@@ -113,11 +113,38 @@ main{
 }
 .what-i-do{
     background-color: transparent;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding: 0 150px 20px 150px;
+    margin-top: 50PX;
+
+
+}
+.skill-container{
+    display: flex;
+    margin-top: 50px;
+}
+.skill{
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 30px;
+    border-radius: 10px;
+}
+/* .section-resume{
+    padding: 0 230px 0 230px;
+}
+.secction-title{
+    text-align: center;
+    margin: 20px 0 30px 0;
+}
+.resume-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 100px;
+    margin-bottom: 20px;
     
 }
-/* .details{
-    padding: 150px;
-    margin: 130px 0;
+.main-r-details{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 100px;
+    
 } */
