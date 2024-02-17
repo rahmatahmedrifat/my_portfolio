@@ -148,3 +148,16 @@ main{
     column-gap: 100px;
     
 } */
+.secction-title{
+    text-align: center;
+    margin: 20px 0 30px 0;
+}
+/* .resume-column-title{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+} */
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
